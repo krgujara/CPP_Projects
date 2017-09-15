@@ -23,8 +23,8 @@ For setting up IIS, You need to set the path as the command line argumt
 to server side, and then it automatically does the rest.
 
 
-I have tried my level best create the GUI, even TA Achal did dubug, and check why GUI
-is not working, while debugging, we could see that msgs are received 
+I have tried my level best create the GUI, tried to debug the code, check why GUI
+is not working, while debugging, I could see that msgs are received 
 to Server, but Couldnt figure out why it keeps looping to connect to server.
 
 I have tried my level best to make it run, I am Using 2 queues to communicate 
