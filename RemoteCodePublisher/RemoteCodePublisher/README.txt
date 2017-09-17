@@ -1,6 +1,8 @@
 
 Remote Code Publisher
 
+Message Passing System of Remote Code Publisher - CPP_Projects/RemoteCodePublisher/RemoteCodePublisher/MsgPassingActivity.pdf
+
 Instructions to Run this project - 
 
 All the functionality is demonstrated by sending and receiving files
